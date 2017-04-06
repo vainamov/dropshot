@@ -15,8 +15,8 @@ The server relies heavily on JSON files to store it's components and data. This 
 Coming soon!
 
 ## Known Issues
-#### Grenades do not explode on secondary fire.
-*__Affects__: The Final World, The Final Kiss*  
+#### Grenades do not explode on secondary fire. / Miniguns do not warm up.
+*__Affects__: The Final World, The Final Kiss, Sabertooth, Battlesnake, Battlesnake [Dragon]*  
 Uberstrike has the most complicated secondary fire system ever. At the moment we have no idea how to set up these weapons correctly.  
 #### Some stats don't match the original counterpart.
 *__Affects__: All items in the shop*  
