@@ -31,6 +31,10 @@ Nope, this is a 100% real and working. If you don't think so, enjoy your life wi
 Fortunately, Uberstrike is developed using the Unity engine and C#. C# is a programming language designed by Microsoft and gets compiled to Common Intermediate Language (CIL). With tools like [ILSpy](https://github.com/icsharpcode/ILSpy) oder [dnSpy](https://github.com/0xd4d/dnSpy) you can decompile CIL code back to C# and make it readable again. Uberstrike's client-server communitcation is based on the Windows Communication Framework which uses WebServices to answer requests. A proxy software like Charles reveals more details about the contracts used. All you need to do, is re-create these WebServices accordingly.  
 #### Can I try this?
 Yes, but at the moment it's complicated af. You would need a Windows Server with ASP.NET and a SSL certificate (we use [IIS](https://www.iis.net/) for this), the Uberstrike Steam client (you can still download this version directly via **steam://install/291210**) and a patch made by us. We know this is a complex setup but we are trying to simplify this. Stay tuned!  
+#### Can we use our old accounts?
+No, we have no access to existing CMUNE accounts which is why you have to start from the beginning. However, every item is free and available from the beginning so this shouldn't be a problem.  
+#### Really *every* item? What about Admin Shirt for example?
+Alright, not *every* item. We had been able to recover all Rank Shirts (Admin, Moderator, QA, Beta Hero, etc.) as well as the Clan Shirts from the tournament. However, we will not provide these items in the shop as we respect their meaning. Nevertheless, there will be positions like moderator available for application and whoever gets picked will get an appropriate shirt.  
 #### Will you implement ...?
 Probably not. Our plan is to create a server which provides all functions needed in order to play. Hence we didn't plan on implementing the clan system, the global chat lobby, the friend system, levels or statistics. However, this is open-source, feel free to implement these features on your own.
 #### Can you add ... to the game?
