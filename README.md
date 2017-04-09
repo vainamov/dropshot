@@ -39,6 +39,8 @@ Alright, not *every* item. We had been able to recover all Rank Shirts (Admin, M
 Probably not. Our plan is to create a server which provides all functions needed in order to play. Hence we didn't plan on implementing the clan system, the global chat lobby, the friend system, levels or statistics. However, this is open-source, feel free to implement these features on your own.
 #### Can you add ... to the game?
 No. First of all, we are no game developers and don't have the capabilities to add features like completely new weapons or the testing area. Second of all, we are using the official Steam version of Uberstrike and have no control about it's features at all, because it's already compiled and you cannot edit Unity-based games once complied.
+#### What about QuickSwitching (QS)?
+QS isn't a feature they turned off, but a bug they've fixed. It's going to be challenging for us to recover it. But it is defenitely planned.  
 #### Why is everything free? / Why does every armor has the same AP?
 We started this project because we missed the fun we had when playing Uberstrike and we'll stick to this plan. Our goal is to create a fair economy system, enabling everyone to pick the weapon he wants (rather than the weapon he can purchase) and to pick the armor he likes the most, without the need to be worried about his chances. If you don't like our attitude, feel free to change the respective values on your own.
 #### Is this *really* no fake?
